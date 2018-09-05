@@ -20,9 +20,9 @@ You may have to wait a little the first time or click it twice
 ### Command Line :
 - Create a directory to store build files (ex "Build" ).
 - Go inside that directory and use the command : `cmake <path to the project directory>` pour créer un makefile
-- use de command : `make` pour compiler le projet
+- use the command : `make` pour compiler le projet
 
-You should now have a executable in at the path : Build/Project/executable
+You should now have an executable in the directory
   
 ## Help : 
   There are some debug notes at the end of the CmakeLists.txt file
